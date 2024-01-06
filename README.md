@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Frontend Development<br>🎯 Goals: build amazing projects and develop my full potential</p>
-
+<p align="left">📚 I'm currently learning Frontend Development<br>🎯 Goals: build amazing projects and develop my full potential<br>📧 Email: leididelapuente@gmail.com</p>
 ###
 
 <h2 align="left">I code with</h2>
