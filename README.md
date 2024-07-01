@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Leidi and I'm a Frontend Developer from Colombia</p>
+<p align="left">My name is Leidi and I'm a Frontend Developer</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Frontend Development<br>🎯 Goals: build amazing projects and develop my full potential<br>📧 Email: leididelapuente3@gmail.com</p>
+<p align="left">📚 I'm currently learning ExpressJS<br>🎯 Goals: build amazing web applications and develop my full potential<br>📧 Email: leididelapuente3@gmail.com</p>
 
 <h2 align="left">I code with</h2>
 
