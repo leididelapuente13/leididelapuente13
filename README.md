@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,tailwind,react,redux,Zustand,vitest,nodejs,express,jest,mysql,postgres,sequelize,supabase,figma,git,github" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,tailwind,react,zustand,redux,vitest,nodejs,express,jest,mysql,postgres,sequelize,supabase,figma,git,github" alt="Technologies" />
 </div>
 
 ###
