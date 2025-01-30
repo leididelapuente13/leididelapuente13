@@ -20,6 +20,8 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,tailwind,react,redux,vitest,nodejs,express,jest,mysql,postgres,sequelize,supabase,figma,git,github" alt="Technologies" />
+</div>
+<div>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=zustand" />
 </div>
 
