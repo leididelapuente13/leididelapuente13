@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning ExpressJS<br>🎯 Goals: build amazing web applications and develop my full potential<br>📧 Email: leididelapuente3@gmail.com</p>
+<p align="left">📚 I'm currently learning Angular<br>🎯 Goals: build amazing web applications and develop my full potential<br>📧 Email: leididelapuente3@gmail.com</p>
 
 ###
 
